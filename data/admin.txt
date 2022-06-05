@@ -1,0 +1,8 @@
+librarian@gmail.com
+library
+staff1@gmail.com
+staff1
+staff2@gmail.com
+staff2
+staff3@gmail.com
+staff3
